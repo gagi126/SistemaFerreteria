@@ -1,0 +1,14 @@
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Sentey\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+G:\Programacion\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+G:\Programacion\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+G:\Programacion\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+G:\Programacion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+G:\Programacion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+G:\Programacion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+G:\Programacion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
